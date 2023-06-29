@@ -17,26 +17,6 @@ The project spans four essential domains:
 4. Testing and Validation: The project includes a comprehensive plan for designing and executing test cases to validate the implemented system's functionality, security, and reliability.
 
 
-
-
-Repository Structure
-
-The repository is organized as follows:
-
-    src/: This directory hosts all the source code used in the project.
-    docs/: This directory contains documentation, explaining the project, its objectives, and methodologies.
-    tests/: This directory houses test cases and results from the testing and validation stage.
-    schematics/: This directory features all electronic schematics and hardware-related files.
-
-How to Use
-
-To make use of this repository:
-
-    Clone the repository to your local machine.
-    Head over to the src/ directory to access the source code.
-    For understanding the project, its objectives, and methodology, refer to the docs/ directory.
-    The schematics/ directory contains all the hardware-specific information.
-
 Contributions
 
 Your constructive feedback, issues, and pull requests are welcome and appreciated. Please respect and adhere to the established code of conduct while contributing.
