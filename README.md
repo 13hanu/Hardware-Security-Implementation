@@ -1,8 +1,7 @@
 # Hardware-Security-Implementation
 High-level concepts of hardware security will be involved to give a general understanding 
 
-
-Secure Data Transmission and Encryption System
+**Secure Data Transmission and Encryption System**
 
 Welcome to the repository of a comprehensive project focusing on secure data transmission and encryption. The project encompasses the design and implementation of an electronic system with capabilities of data acquisition, encryption into a cipher, transmission to a different system, receiving a cipher, and decryption to render the original data. The project showcases the application of secure data transmission and encryption techniques in hardware security.
 Project Overview
