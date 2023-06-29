@@ -1,5 +1,5 @@
 # Hardware-Security-Implementation
-High-level concepts of hardware security will be involved to give a general understanding 
+High-level concepts of hardware security will be involved to give a general understanding using #Arduino
 
 **Secure Data Transmission and Encryption System**
 
